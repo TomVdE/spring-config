@@ -1,6 +1,6 @@
 server:
   port: 7070
-my_message: YOLO  
+my_message: azerty  
 name: Ryan
 names:
   - Baxter
